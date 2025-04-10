@@ -1,0 +1,21 @@
+table,td,th,tr{
+border: 1px solid black;
+border-collapse: collapse;
+height:50px;
+width: 300px;
+}
+td{
+    background-color:whitesmoke;
+    font-family: cursive;
+}
+th{
+    background-color:pink;
+}
+body{
+    background-image: url("images/360_F_545428173_uyYWJoR9n5uJFYIWfDa2C49AzIECcU20.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
